@@ -1,0 +1,40 @@
+[
+  {
+    "icon": "fa fa-home",
+    "slug": "external",
+    "title": "Volver al Inicio",
+    "path": "index.html"
+  },  
+  { 
+    "id": 1,
+    "icon": "fa fa-play-circle",
+    "slug": "introduccion",
+    "title": "1. Introduccion",
+    "breadcrumb": ["Inicio","Introducción"],
+    "path": "pages/tema-1.html"     
+  },
+
+  {
+    "id": 2,
+    "icon": "fa fa-file-text-o",
+    "slug": "normativa-vigente",
+    "title": "2. Normativa vigente proceso ECCL",
+    "breadcrumb": [
+      "Inicio",
+      "Tema 2"
+    ],
+    "path": "pages/tema-2.html"
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "actividad-1",
+    "title": "Actividad didáctica",
+    "path": "pages/actividad-1.html"
+  },
+  {
+    "icon": "fa fa-question-circle",
+    "slug": "demo",
+    "title": "demo",
+    "path": "pages/1-tema.html"
+  }
+]
